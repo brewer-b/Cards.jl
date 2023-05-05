@@ -1,0 +1,13 @@
+name = "Cards"
+uuid = "2425ed38-63cb-490e-88f3-ad9e63ce4958"
+authors = ["= <=> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
